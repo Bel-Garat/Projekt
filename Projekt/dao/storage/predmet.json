@@ -1,0 +1,14 @@
+[
+  {
+    "id": "e7f9fdce-499d-4cef-a438-e38d69aa2f4e",
+    "nazev": "Fyzika",
+    "ucitel": "RNDr. Dvořák",
+    "ucebna": "B203"
+  },
+  {
+    "id": "acba84ce-4633-4200-844a-bda29b2cd4a3",
+    "nazev": "Matematika",
+    "ucitel": "RNDr. Plachý",
+    "ucebna": "A200"
+  }
+]

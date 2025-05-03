@@ -1,0 +1,23 @@
+[
+  {
+    "id": "13c302ac-72ef-47fe-81cf-5aaa91060cc2",
+    "jmeno": "Anna",
+    "prijmeni": "Malá",
+    "datumNarozeni": "2001-02-10",
+    "email": "anna.mala@example.com"
+  },
+  {
+    "id": "825def80-b731-46e7-8746-13db1e6901c6",
+    "jmeno": "Václav",
+    "prijmeni": "Veliký",
+    "datumNarozeni": "2011-02-10",
+    "email": "vaclav.veliky@email.cz"
+  },
+  {
+    "id": "fd1ca846-2eda-49c2-b341-9e73da4963d9",
+    "jmeno": "Jan",
+    "prijmeni": "Novák",
+    "datumNarozeni": "2000-05-15",
+    "email": "jan.novak@email.cz"
+  }
+]
