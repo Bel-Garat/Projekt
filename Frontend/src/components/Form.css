@@ -1,0 +1,128 @@
+.form-container {
+  background: #fff;
+  padding: 1.5rem;
+  max-width: 400px;
+  margin: 2rem auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+.form-container h2 {
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #339af0;
+  padding-bottom: 0.25rem;
+  color: #333;
+}
+.form-container label {
+  display: block;
+  margin-top: 0.75rem;
+  font-weight: bold;
+}
+.form-container sup {
+  color: #e63946;
+}
+.form-container input {
+  width: 100%;
+  padding: 0.5rem;
+  margin-top: 0.25rem;
+  border: 2px solid #74c0fc;
+  border-radius: 6px;
+  box-sizing: border-box;
+}
+
+.form-error {
+  background: #ffe3e3;
+  color: #d00000;
+  padding: 0.5rem;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+.form-buttons {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+.btn-warning {
+  background-color: #ffd43b;
+  color: #333;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.btn-success {
+  background-color: #69db7c;
+  color: #333;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.btn-danger {
+  background-color: #ff6b6b;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.btn-close {
+  display: block;
+  width: 100%;
+  margin-top: 1rem;
+}
+.react-select__control {
+  border: 2px solid #339af0;
+  border-radius: 6px;
+  margin-top: 0.25rem;
+}
+.react-select__multi-value {
+  background-color: #e7f5ff;
+  border: 1px solid #74c0fc;
+  border-radius: 4px;
+}
+.react-select__multi-value__remove:hover {
+  background-color: #339af0;
+  color: white;
+}
+
+.dashboard-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+.btn-link {
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  padding: 0.75rem 1rem;
+  background: #339af0;
+  color: white;
+  border-radius: 6px;
+  font-weight: bold;
+}
+.btn-link:hover {
+  background: #228be6;
+}
+
+.checkbox-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;      
+  margin-top: 1rem;
+}
+
+.checkbox-label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;      
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.checkbox-label input {
+  margin: 0;        
+  width: 1.2em;
+  height: 1.2em;
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "13c302ac-72ef-47fe-81cf-5aaa91060cc2",
+    "jmeno": "Anna",
+    "prijmeni": "Malá",
+    "datumNarozeni": "2001-02-10",
+    "email": "anna.mala@example.com"
+  },
+  {
+    "id": "825def80-b731-46e7-8746-13db1e6901c6",
+    "jmeno": "Václav",
+    "prijmeni": "Veliký",
+    "datumNarozeni": "2011-02-10",
+    "email": "vaclav.veliky@email.cz"
+  },
+  {
+    "id": "fd1ca846-2eda-49c2-b341-9e73da4963d9",
+    "jmeno": "Jan",
+    "prijmeni": "Novák",
+    "datumNarozeni": "2000-05-15",
+    "email": "jan.novak@email.cz"
+  },
+  {
+    "id": "d6894d84-4289-4feb-a019-93f7ae3c0397",
+    "jmeno": "Josef",
+    "prijmeni": "Čaepk",
+    "datumNarozeni": "2025-03-06",
+    "email": "capek@email.cz"
+  },
+  {
+    "id": "8051d8a6-661d-438c-80a5-59b8d56c0e40",
+    "jmeno": "Karel",
+    "prijmeni": "Čapek",
+    "datumNarozeni": "2024-06-04",
+    "email": "capekK@email.cz"
+  },
+  {
+    "id": "2f42edd8-e984-4ff7-bed0-d7c0b22e23bc",
+    "jmeno": "Jakub",
+    "prijmeni": "Opava",
+    "datumNarozeni": "2024-10-09",
+    "email": "opava@email.cz"
+  }
+]

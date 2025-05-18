@@ -1,0 +1,26 @@
+[
+  {
+    "id": "e7f9fdce-499d-4cef-a438-e38d69aa2f4e",
+    "nazev": "Fyzika",
+    "ucitel": "RNDr. Dvořák",
+    "ucebna": "B203"
+  },
+  {
+    "id": "acba84ce-4633-4200-844a-bda29b2cd4a3",
+    "nazev": "Matematika",
+    "ucitel": "RNDr. Plachý",
+    "ucebna": "A200"
+  },
+  {
+    "id": "98f0f35e-826d-402d-b540-f441de8456f7",
+    "nazev": "Chemie ",
+    "ucitel": "Mgr. Dolanský",
+    "ucebna": "K101"
+  },
+  {
+    "id": "45948c46-8eda-45b4-b32e-839df1afa836",
+    "nazev": "Tělesná Výchova",
+    "ucitel": "Mgr. Horák",
+    "ucebna": "015"
+  }
+]
